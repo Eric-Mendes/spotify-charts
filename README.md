@@ -5,11 +5,11 @@ O Spotify possui playlists com as músicas novas mais populares em [São Paulo](
 
 ## Dados
 Os dados foram obtidos utilizando a web api do spotify. Primeiro peguei as músicas em cada playlist e criei um csv com o que encontrei. Depois peguei as respectivas features de cada uma e as coloquei em um outro arquivo csv.<br/>
-Todos os arquivos se encontram na pasta [data](https://github.com/Eric-Mendes/spotify-charts/tree/main/data "Ir para esta pasta")
+Todos os datasets se encontram na pasta [data](https://github.com/Eric-Mendes/spotify-charts/tree/main/data "Ir para esta pasta").
 
 ## Objetivos
 Neste projeto eu pretendo analisar o quão diferentes são as músicas no top 100 de cada cidade, se é que são diferentes. <br/>
 Ao final desejo criar um classificador que recebe as features de alguma música e a classifica em alguma das 5 (cinco) cidades em questão. Este classificador pode ajudar artistas a fazerem um marketing mais focado para onde sua música se encaixa melhor.
 
 ## Motivação
-Em um hackathon da Sony Music BR com a Shawee, nos foi pedido para criarmos soluções baseadas em data science para problemas enfrentados no mundo da música. Minha equipe não foi a vencedora, porém como o músico que também sou continuei refletindo sobre o assunto, e assim decidi montar este projeto.
+Em um [hackathon](https://www.codestage.com.br/ "Hackathon code/stage") da [Sony Music BR](https://www.sonymusic.com.br/ "Ir para o site da Sony Music BR") com a [Shawee](https://shawee.io/pt/ "Abrir o site da Shawee"), nos foi pedido para criarmos soluções baseadas em data science para problemas enfrentados no mundo da música. Minha equipe não foi a vencedora, porém como o músico que também sou continuei refletindo sobre o assunto, e assim decidi montar este projeto.
