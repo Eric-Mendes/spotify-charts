@@ -4,7 +4,8 @@ O Brasil é um país de dimensões continentais, o que faz com que existam difer
 O Spotify possui playlists com as músicas novas mais populares em [São Paulo](https://open.spotify.com/playlist/5DqR5bAbk7mTq5jnvJsjel?si=_Vw9iZ-MT0unvZetXHirqA "Playlist: Viral São Paulo BR"), [Curitiba](https://open.spotify.com/playlist/4iXBmc9lmaFnjBKK9aCXg3?si=R4fJeKTIThC-ctMIFtis6Q "Playlist: Viral Curitiba BR"), [Belo Horizonte](https://open.spotify.com/playlist/4Zn9LFbwTguxz4XeAWTDi1?si=bLoHGsGkTh644-9GaUhf0w "Playlist: Viral Belo Horizonte BR"), [Brasília](https://open.spotify.com/playlist/0X039tyQfxhPtVWoZUqqzX?si=FZtLpzbxTnmyf_B9U1ki_A "Playlist: Viral Brasília BR") e [Rio de Janeiro](https://open.spotify.com/playlist/6GNmpxMYl4hD90GwGINyla?si=wdQailsfQEC--UratCDy6Q "Playlist: Viral Rio de Janeiro BR"). Este é um estudo das músicas em cada uma dessas playlists.<br/>
 
 ## Dados
-Os dados foram obtidos utilizando a web api do spotify. Primeiro peguei as músicas em cada playlist e criei um csv com o que encontrei. Depois peguei as respectivas features de cada uma e as coloquei em um outro arquivo csv.
+Os dados foram obtidos utilizando a web api do spotify. Primeiro peguei as músicas em cada playlist e criei um csv com o que encontrei. Depois peguei as respectivas features de cada uma e as coloquei em um outro arquivo csv.<br/>
+Todos os arquivos se encontram na pasta [data](https://github.com/Eric-Mendes/spotify-charts/tree/main/data "Ir para esta pasta")
 
 ## Objetivos
 Neste projeto eu pretendo analisar o quão diferentes são as músicas no top 100 de cada cidade, se é que são diferentes. <br/>
