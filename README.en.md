@@ -1,4 +1,4 @@
-# spotify-charts <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" width=20>
+# spotify-charts <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" width=20 align="right">
 |<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width=25>|[Ler isto em português](https://github.com/Eric-Mendes/spotify-charts/blob/main/README.md "README.md em português")|
 |---|:--|
 ## Introduction
